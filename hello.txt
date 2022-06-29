@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 bang
 Dong bang bang
+=======
+bang as[dasdqOW
+>>>>>>> Ha

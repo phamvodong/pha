@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bang
 Dong bang bang
 =======
 bang as[dasdqOW
 >>>>>>> Ha
+=======
+bang as[dasdqOW
+Dong bang bang
+>>>>>>> d3dc83486e0ff1f8fd307a65fc7fa5cd8c7a3d51
